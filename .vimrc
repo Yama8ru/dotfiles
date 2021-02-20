@@ -1,6 +1,6 @@
 " ----------vim-plug----------
 call plug#begin()
-Plug 'tomasr/molokai'
+Plug 'joshdick/onedark.vim'
 call plug#end()
 
 " ----------appearance----------
@@ -9,7 +9,7 @@ set cursorline
 language C
 syntax on
 set termguicolors
-colorscheme molokai
+colorscheme onedark
 
 " ----------file----------
 set encoding=utf-8
