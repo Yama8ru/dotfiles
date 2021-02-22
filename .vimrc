@@ -42,3 +42,7 @@ inoremap ' ''<LEFT>
 
 " ----------keybind----------
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
+noremap <c-h> <c-w><c-h>
+noremap <c-j> <c-w><c-j>
+noremap <c-k> <c-w><c-k>
+noremap <c-l> <c-w><c-l>
